@@ -1,9 +1,10 @@
 # Extended Thinking Test Suite
 
+<img width="1126" height="659" alt="image" src="https://github.com/user-attachments/assets/38d8d588-b02e-487e-adbf-3b523b00353e" />
+
 A comprehensive, interactive Python test suite for verifying Claude's Extended Thinking functionality via the HiCap AI API.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## What is Extended Thinking?
 
