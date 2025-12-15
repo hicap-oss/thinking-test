@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://api.hicap.ai/v2/openai/chat/completions",
+  "api_key": "REDACTED_API_KEY",
+  "model": "claude-sonnet-4.5",
+  "thinking_budget": 2500,
+  "max_tokens": 25000,
+  "system_prompt": "You are a helpful assistant.",
+  "user_prompt": "tell me a short story"
+}

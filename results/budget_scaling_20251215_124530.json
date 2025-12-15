@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-12-15T12:45:30.175310",
+  "budgets_tested": [
+    1024,
+    2500,
+    5000
+  ],
+  "results": [
+    {
+      "budget": 1024,
+      "thinking_length": 155,
+      "response_length": 947,
+      "passed": true,
+      "thinking_content": "The user wants a short story. I'll create something simple, engaging, and complete. Let me write an original short story with a beginning, middle, and end.",
+      "text_content": "# The Last Library\n\nMaya found the bookstore by accident, tucked between two glass skyscrapers that hadn't existed yesterday.\n\nInside, dust motes danced in golden light. An old man sat behind the counter, reading.\n\n\"I'm looking for something different,\" Maya said.\n\nHe smiled. \"Everyone who enters is.\" He handed her a slim, unmarked book.\n\nThat night, she opened it. The pages were blank\u00e2\u0080\u0094until she began to read. Words appeared, telling *her* story: her lost childhood cat, her grandmother's secre"
+    },
+    {
+      "budget": 2500,
+      "thinking_length": 106,
+      "response_length": 717,
+      "passed": true,
+      "thinking_content": "The user wants a short story. I'll create a brief, engaging story with a clear beginning, middle, and end.",
+      "text_content": "# The Last Leaf\n\nEmma had been watering the same dried-up plant on her apartment balcony for three months. Her roommate called it pointless. The plant was clearly dead.\n\nBut every morning, Emma gave it water and whispered, \"Not giving up on you.\"\n\nOne Tuesday in March, she noticed something impossible\u00e2\u0080\u0094a tiny green shoot emerging from the brittle stem.\n\n\"See?\" Emma told her surprised roommate. \"Sometimes things just need someone to believe in them, even when everyone else has stopped looking.\"\n"
+    },
+    {
+      "budget": 5000,
+      "thinking_length": 155,
+      "response_length": 1126,
+      "passed": true,
+      "thinking_content": "The user wants a short story. I'll create something simple, engaging, and complete. Let me write an original short story with a beginning, middle, and end.",
+      "text_content": "# The Last Leaf\n\nOn a gray November morning, Maya noticed the old oak tree outside her apartment had finally shed all its leaves\u00e2\u0080\u0094except one.\n\nThat single red leaf clung stubbornly to the highest branch, defying the wind that had claimed all its companions.\n\nEvery day, Maya watched it during her morning coffee. Through rain storms and frost, it held on. She began to admire its persistence. In a difficult year where she'd lost her job and questioned her own resilience, that leaf became her silen"
+    }
+  ]
+}

@@ -36,7 +36,7 @@ except ImportError:
 # Configuration Defaults
 # =============================================================================
 DEFAULT_API_ENDPOINT = "https://api.hicap.ai/v2/openai/chat/completions"
-DEFAULT_API_KEY = "YOUR_API_KEY"
+DEFAULT_API_KEY = "REDACTED_API_KEY"
 DEFAULT_MODEL = "claude-sonnet-4.5"
 DEFAULT_THINKING_BUDGET_TOKENS = 2500
 DEFAULT_MAX_TOKENS = 16000  # Max tokens for response (prevents truncation)

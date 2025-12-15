@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-12-15T12:38:13.619507",
+  "budgets_tested": [
+    1024,
+    2500,
+    5000
+  ],
+  "results": [
+    {
+      "budget": 1024,
+      "thinking_length": 120,
+      "response_length": 1166,
+      "passed": true,
+      "thinking_content": "The user wants a short story. I'll create something brief, engaging, and complete. Let me write an original short story.",
+      "text_content": "# The Last Library Book\n\nMarion had worked at the library for forty years. On her final day, she found a book wedged behind the radiator in the children's section\u00e2\u0080\u0094probably there for decades.\n\nIt was a thin volume called \"The Cloud Keeper,\" never checked out according to the card in back. The due date slip was blank.\n\nThat evening, Marion read it. The story told of a little girl who collected clouds in jars, keeping them for people who needed them: storm clouds for farmers, sunset clouds for th"
+    },
+    {
+      "budget": 2500,
+      "thinking_length": 127,
+      "response_length": 1056,
+      "passed": true,
+      "thinking_content": "The user wants a short story. I'll create something simple, engaging, and complete. Let me think of a heartwarming short story.",
+      "text_content": "# The Last Leaf\n\nOn a quiet street, an old oak tree stood between two apartment buildings. Every autumn, a little girl named Maya would watch its leaves turn gold and fall.\n\nOne November, only a single leaf remained. Maya, now bedridden with illness, could see it from her window.\n\n\"When that leaf falls,\" she whispered to her grandmother, \"I'll be gone too.\"\n\nHer grandmother smiled softly but said nothing.\n\nDays passed. Wind howled. Rain poured. Yet the leaf clung stubbornly to its branch.\n\nMaya "
+    },
+    {
+      "budget": 5000,
+      "thinking_length": 159,
+      "response_length": 847,
+      "passed": true,
+      "thinking_content": "The user wants a short story. I'll create a brief, engaging story with a clear beginning, middle, and end. Let me come up with something simple but meaningful.",
+      "text_content": "# The Last Leaf\n\nOn a cold autumn morning, Emma found a tiny bird shivering on her doorstep, too weak to fly south with the others.\n\nShe brought it inside, made a nest from an old scarf, and fed it seeds and water. Each day, the bird grew stronger, hopping around her small apartment and perching on her shoulder while she read.\n\nAs winter arrived, Emma worried. \"You missed your chance to migrate,\" she whispered sadly.\n\nBut when spring came, the bird began singing\u00e2\u0080\u0094a beautiful, intricate melody t"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-12-15T12:46:44.631750",
+  "turns": 3,
+  "message_count": 7,
+  "signatures": [
+    {
+      "turn": 1,
+      "valid": true,
+      "length": 460,
+      "preview": "EtICCkgIChACGAIqQF10a78NNtE5G+NxltegwSPMcC74QsMavK"
+    },
+    {
+      "turn": 2,
+      "valid": true,
+      "length": 480,
+      "preview": "EuECCkgIChACGAIqQFfgnw6jLI8T7MhqjgSVVkKMlttsHIYi5+"
+    },
+    {
+      "turn": 3,
+      "valid": true,
+      "length": 680,
+      "preview": "EvgDCkgIChACGAIqQBmtqDd+nL8maT8ZLgFir1lVfEyAAT68oD"
+    }
+  ],
+  "resumable": true,
+  "verification_summary": {
+    "total_signatures": 3,
+    "valid_signatures": 3,
+    "chain_intact": true
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful assistant."
+    },
+    {
+      "role": "user",
+      "content": "hello how are you"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "thinking",
+          "thinking": "The user is greeting me and asking how I am. This is a friendly, casual greeting. I should respond politely and warmly, and offer to help them with whatever they need.",
+          "signature": "EtICCkgIChACGAIqQF10a78NNtE5G+NxltegwSPMcC74QsMavKqyKuAmLyWFggM4745VQ6h8vPNj7Xvfcj6rDYWtPlQ/VWE+JAaHPZ8SDHeE6QWJDrcWOBKpsRoMFCr3iml4b70qHCUrIjD8JtF2GgE+DDrLPUiXiot/MkzLXueMu1j6bqd3+BIDbcBQ2OagzGUHBcOqtD0SHl4qtwGm1Al+KjtpiQuaNDobnWl4bw+bdGeeN5OXzwyOGu8MOQx0FEfHstqe3qxEKBGZA1+/ylpBHhhKPQ3HJ4A5oUIyKNWaw65bEbqf2/yTX8wk8U6OKjzbLvc93+aW3gkFwv/DQQ1CNFyxByGQ10tB1MNEqXi/Jgnwp85h38qvhtffkVMsR+NYoyLLYLcZ8pbkx3AodW9dSnrl5HZTsui4XTobg/sZo3tVe2ZsoPRNjUkksMHfn1UXrmEYAQ=="
+        },
+        {
+          "type": "text",
+          "text": "Hello! I'm doing well, thank you for asking. I'm here and ready to help you with whatever you need. How are you doing today? Is there anything I can assist you with?"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "tell me about horses think hard"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "thinking",
+          "thinking": "The user is asking me to tell them about horses and to \"think hard\" about it. I'll provide a comprehensive and thoughtful response about horses, covering various interesting aspects.",
+          "signature": "EuECCkgIChACGAIqQFfgnw6jLI8T7MhqjgSVVkKMlttsHIYi5+QsLB7v9Gjx25+Q7kQH/FAlulOwufxDDZGpRzGVHg92Ci7rIQ+1er8SDPEd60cuOfC4M51CPxoMHZlod8HgLEuOcWYoIjCGxd4xJIiSchGUarsYDmpHCmUGLdo52dTaGtob/yEzH0wizI/vDH1/FqcrCM+P7JEqxgE2SUlXvHkhzaA/C4MCZnh0slco3MIowH4dzExO0JC8J3HO0RlBR9ovmsbtnXx6lnxEalXRBMLa2dMOKEH5pFLDd+MikUAYlqTLm6e9Anu5fvMg7Jb9MUFlXWVWxvbWSVyz95GASjaAx160DskcChA9zw1UKo7ztgeMZ2ljy5eIkYqJywvfpl2Ke2adtfKtYlKOMfQl+bcYpeeaodLoQAWrEwNPmn7wc5+rpYAAvuJMhUi+XK1djOagI9s8ZwUTJhU7DANGgcMYAQ=="
+        },
+        {
+          "type": "text",
+          "text": "# Horses - A Thoughtful Overview\n\nLet me share some fascinating aspects about horses:\n\n## Evolution & Biology\n- Horses evolved over ~55 million years from small, dog-sized creatures called *Eohippus* (dawn horse) with multiple toes to the single-hooved animals we know today\n- They're odd-toed ungulates (perissodactyls), related to rhinos and tapirs\n- They have the largest eyes of any land mammal, positioned to give nearly 360Â° vision\n- They can't vomit due to a strong muscular valve in their digestive system\n\n## Intelligence & Behavior\n- Horses have excellent memories and can remember people, places, and experiences for years\n- They're highly social herd animals with complex communication using ears, eyes, and body posture\n- They can read human emotions remarkably well, often mirroring our feelings\n- Each horse has a distinct personality\n\n## Physical Capabilities\n- Can sleep both standing (using a \"stay apparatus\" in their legs) and lying down\n- Top speed: ~55 mph (88 km/h) for short distances\n- They produce about 10 gallons of saliva daily\n- A horse's hoof is essentially a single giant toe (middle digit)\n\n## Human Partnership\n- Domesticated ~6,000 years ago, fundamentally shaping human civilization\n- Transformed warfare, agriculture, transportation, and communication\n- Over 300 breeds exist today, from miniature horses to massive draft breeds\n\nWhat aspect interests you most?"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "okay cool"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "thinking",
+          "thinking": "The user is giving a brief, casual acknowledgment. They seem satisfied with the information but aren't asking for more detail or a new topic. I should keep my response friendly and brief, leaving the door open for them to ask about something else if they want, but not overwhelming them with more information since they seem content.",
+          "signature": "EvgDCkgIChACGAIqQBmtqDd+nL8maT8ZLgFir1lVfEyAAT68oD+CGrS1Z0gGzij9M/tsQs5GGXDomYD3i9yNb3s8x/67dB3BwtGcH7USDJlasuQlrOjdHxmeNxoMpGMbeXdtV9o8Wm3bIjChhjSpeT2fxmJ2wuEwRmctq/GjfUqiLPkn96cGQrVldgHu0LC8ZaJQNct3ScRd9R8q3QJWtlj7qIyONCO5yu4PqfCkrUckZwFk4+Lgf+IU3ZkadS5rTInKtNzPMY5DNZgI3+YWHYuhE7emTfNBSPAsSN+tHPkFnD+XuCHZhLHyXeFnYvwvrPyblJdcaCFKBngFsE4EgZIVcgPxI4Nu072kGHLRyZ+m+w+Xl7/7HP97B5oxpfP/dEt6XQbCFBh/bje+QrajPM9xc6z1zc7w04LtT+tz5UbRrCg4Et+s9WLBONH5lxx4z6FcxYuEM9ZDs7geGHNQ6AmUYK40XobL2zd300/tdJDJbEgs1ip+GvZOM1f/l+iUV0qPYSe+eFw3hdQOzS/mMgWq4/bbXicTB0l9U33RkC53FP2QdBRg4/hsX1voqcNfAABvL3QRiaTbWZFDbsoV0klC9NXQS9o5N6Zk1T7L/UWZxps2i/6KDpLFYBdgOTlHKzK9RM3kJgHeyOApX7Lftl3nVoOZCrLJJ9daGAE="
+        },
+        {
+          "type": "text",
+          "text": "Glad you found it interesting! Feel free to ask if you want to know more about horses or anything else entirely. I'm here whenever you need help! ð´"
+        }
+      ]
+    }
+  ]
+}
