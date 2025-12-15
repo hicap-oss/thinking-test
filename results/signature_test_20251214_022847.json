@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-12-14T02:28:47.627287",
+  "passed": true,
+  "signature_present": true,
+  "signature_length": 572,
+  "signature_preview": "EqYDCkgIChACGAIqQIWvAlOFmMogOuF6SCuIQNWuSYI9ZRfA2zP3OADFWZFx/z8CO9hk3o5LdJ+GumsgKPoKWh+Mv0ZrMHbeZ2/DCYUSDAFdIyIGxxeDh9hCoxoMjwE0YqJ3ElUuz1s0IjA6L2KaaxZ8h0EzpLTSDEJvRTp2a8ojMWgpkx/A1NbdhAWboDQM7Q3zJ/EK",
+  "checks": [
+    {
+      "name": "Signature field present",
+      "passed": true
+    },
+    {
+      "name": "Signature non-empty",
+      "passed": true
+    },
+    {
+      "name": "Valid format (base64-like)",
+      "passed": true
+    },
+    {
+      "name": "Reasonable length (50+ chars)",
+      "passed": true
+    }
+  ],
+  "thinking_content": "This is a very simple arithmetic question. Let me break it down step by step as requested.\n\n2 + 2 means I'm adding two groups of 2 together.\n\nStep 1: Start with the first number: 2\nStep 2: Add the second number: 2\nStep 3: 2 + 2 = 4\n\nSo the answer is 4.",
+  "text_content": "I'll solve 2+2 step by step:\n\n**Step 1:** Start with the first number\n- We have: 2\n\n**Step 2:** Add the second number\n- We're adding: 2\n\n**Step 3:** Combine them\n- 2 + 2 = 4\n\n**Answer: 4**"
+}

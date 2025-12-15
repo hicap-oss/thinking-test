@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-12-12T21:32:25.484740",
+  "budgets_tested": [
+    1024,
+    2500,
+    5000
+  ],
+  "results": [
+    {
+      "budget": 1024,
+      "thinking_length": 220,
+      "response_length": 1334,
+      "passed": true,
+      "thinking_content": "The user wants to know about cooking. This is a broad topic, so I'll provide a helpful overview covering various aspects of cooking including what it is, why it's important, basic techniques, and some tips for beginners.",
+      "text_content": "# Cooking: An Overview\n\nCooking is the practice of preparing food by combining ingredients and applying heat. Here are some key aspects:\n\n## Why Cook?\n\n- **Health**: Control ingredients, nutrition, and portion sizes\n- **Cost savings**: Generally cheaper than eating out\n- **Creativity**: Express yourself through flavors and presentation\n- **Social connection**: Bring people together over meals\n\n## Basic Cooking Methods\n\n- **Dry heat**: Baking, roasting, grilling, saut\u00c3\u00a9ing, stir-frying\n- **Moist "
+    },
+    {
+      "budget": 2500,
+      "thinking_length": 226,
+      "response_length": 1278,
+      "passed": true,
+      "thinking_content": "The user is asking me to tell them about cooking. This is a broad topic, so I'll provide a helpful overview covering various aspects of cooking including what it is, why it's important, basic techniques, and some general tips.",
+      "text_content": "# Cooking: An Overview\n\nCooking is the practice of preparing food by applying heat and combining ingredients. Here are some key aspects:\n\n## Why Cook?\n\n- **Nutrition**: Control ingredients and make healthier choices\n- **Cost-effective**: Usually cheaper than eating out\n- **Creativity**: Express yourself through flavors and presentation\n- **Safety**: Proper cooking kills harmful bacteria\n- **Enjoyment**: Therapeutic and rewarding activity\n\n## Basic Cooking Methods\n\n- **Dry Heat**: Roasting, bakin"
+    },
+    {
+      "budget": 5000,
+      "thinking_length": 169,
+      "response_length": 1239,
+      "passed": true,
+      "thinking_content": "The user is asking me about cooking - this is a broad topic, so I'll provide a helpful overview covering various aspects of cooking that might be useful and interesting.",
+      "text_content": "# Cooking: An Overview\n\nCooking is the practice of preparing food by combining ingredients and applying heat. Here are some key aspects:\n\n## Basic Cooking Methods\n\n- **Dry heat**: Baking, roasting, grilling, saut\u00c3\u00a9ing, frying\n- **Moist heat**: Boiling, steaming, poaching, braising\n- **Combination**: Stewing, braising (uses both methods)\n\n## Fundamental Skills\n\n- **Knife skills**: Chopping, dicing, mincing, julienne\n- **Seasoning**: Understanding salt, herbs, and spices\n- **Timing**: Knowing when"
+    }
+  ]
+}
