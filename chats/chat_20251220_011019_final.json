@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-12-20T01:10:19.008127",
+  "turns": 2,
+  "message_count": 5,
+  "signatures": [
+    {
+      "turn": 1,
+      "valid": true,
+      "length": 420,
+      "preview": "ErQCCkgIChACGAIqQEwTtkNs4pY3FP+yj9Xc9uXla2s3k3EN2L"
+    },
+    {
+      "turn": 2,
+      "valid": true,
+      "length": 616,
+      "preview": "EskDCkgIChACGAIqQFVDZeMLTZvdSV1A4wSOxB47wSZh+JHyu/"
+    }
+  ],
+  "resumable": true,
+  "verification_summary": {
+    "total_signatures": 2,
+    "valid_signatures": 2,
+    "chain_intact": true
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful assistant."
+    },
+    {
+      "role": "user",
+      "content": "hello man"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "thinking",
+          "thinking": "The user has greeted me casually with \"hello man\". I should respond in a friendly, welcoming manner while being professional and helpful.",
+          "signature": "ErQCCkgIChACGAIqQEwTtkNs4pY3FP+yj9Xc9uXla2s3k3EN2LXDddS4QFjw/qu69mTW1ynuPjgohaLHPvbXgIf5F6Tvx0jYHH2FfT8SDCSIuuNZGKpInfA82xoMnBCnO9FKsJrNMpC3IjCS02g8kvvvH/9BF9Ilnn76iPDqd9gIVxFC9XCdmA5Cb1scvOibLyhqPw/jGzYaUfcqmQEgO9Ctr5TQBwobDggcbrqjLzChpwOvN1F4o1WroHgFOtp9kCyKVJDHM/dVqrSup+mOYykOlxpEqasmyqj/oZGd7yms1CBra9B3Rke/LGbpM79Jqc/5ALcSFPxOAKd7LsT/MRVjuBgxWoaDBtrBwg1VSSfbk4sZIMEQv6U2Y9RAnu5kvG36uJMoCOwWH63fVAtvtM1LUtzgyGwYAQ=="
+        },
+        {
+          "type": "text",
+          "text": "Hello! How's it going? How can I help you today?"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "hows your day going today"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "thinking",
+          "thinking": "The user is asking how my day is going in a casual, friendly way. I should respond in a warm and conversational manner while being honest about my nature as an AI. I don't experience days in the way humans do, but I can be friendly and turn the conversation back to how I can help them.",
+          "signature": "EskDCkgIChACGAIqQFVDZeMLTZvdSV1A4wSOxB47wSZh+JHyu/Eae0ovKYUF7PnpaTmuyudh6AQac0UuP0hZQjMueNJAwzUPnn+rkPcSDH+LnZc/59WvM/9ybhoMUKb4L5lz1Pq/EhYsIjDvzZe4MP8ZF+NNW/oPCLgdbcvj1IPjpoEsXVTDOV/McrWM3ixfy5B11HgfppbJzHMqrgIEdJxz6fM2QGaoMUNZXzokIKuQ3OKt7eevewEMynV3nv/FR2UvrEg1gxNh4qTJ94Q27TtQ+3D5IEBV1crGTPAG2vgb+ljSGN3bhdCqSxczT48B+mFXZbsFI3UB/MQ37WQsJl8p9X+AwPJEhAWAa7mrRIOmA1gclDZ08Q32Or3wEZaJqyBUGNVF8EbAJ3yrRV/vwWiuLd9FLl1GRbAZLdhrHiYAnwmmL4dV1wxxr+C2HmDt+BlUqoffcqX6JR65eD4slkIl6qopYn8+2+A2xdwZXfS9ywsGc74WHqd+S6wLqZ9jSyEve+lzw8Bks5seKVVoH2U7wa34g/OAHUA+j0GqOma+2G1Regd8SUnRo7pz4GbMJ4BNIECA3uLxszvKoPVmg1qbNjxHbUC/IfwgxBgB"
+        },
+        {
+          "type": "text",
+          "text": "I appreciate you asking! I don't experience days quite like you do, but I'm doing well and ready to help with whatever you need. \n\nHow about you? How's your day been treating you?"
+        }
+      ]
+    }
+  ]
+}

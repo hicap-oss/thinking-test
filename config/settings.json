@@ -1,6 +1,6 @@
 {
   "endpoint": "https://api.hicap.ai/v2/openai/chat/completions",
-  "api_key": "REDACTED_API_KEY",
+  "api_key": "YOUR_API_KEY_HERE",
   "model": "claude-sonnet-4.5",
   "thinking_budget": 2500,
   "max_tokens": 25000,
